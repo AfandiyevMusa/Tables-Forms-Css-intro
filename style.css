@@ -1,0 +1,53 @@
+.head{
+    display: inline;
+}
+
+.experience{
+    display: inline;
+}
+
+.education{
+    display: inline;
+}
+
+.projects{
+    display: inline;
+}
+
+.information{
+    display: inline;
+}
+
+.awards{
+    display: inline;
+}
+
+.languages{
+    display: inline;
+}
+
+
+h4{
+    color: rgb(71, 127, 200);
+}
+
+/*
+.head p{
+    display: flex;
+}
+.head h1{
+    display: flex;
+}
+
+.allParts{
+    display: flex;
+}
+
+.seperatePart{
+    flex: 1;
+}
+
+.seperatePart bodyDetail{
+    color: red;
+    font-size: 10px;
+} */
