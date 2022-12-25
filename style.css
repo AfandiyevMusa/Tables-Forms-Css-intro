@@ -1,53 +1,38 @@
-.head{
-    display: inline;
+.all{
+    display: flex;
 }
 
-.experience{
-    display: inline;
+.part1{
+    flex: 3;
+    margin-left: 60px;
 }
 
-.education{
-    display: inline;
+.part2{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 60px;
+    flex: 1;
+    font-size: 15px;
 }
 
-.projects{
-    display: inline;
+.skills{
+    margin-top: 50px;
 }
-
-.information{
-    display: inline;
-}
-
-.awards{
-    display: inline;
-}
-
-.languages{
-    display: inline;
-}
-
 
 h4{
-    color: rgb(71, 127, 200);
+    color: rgb(0, 109, 197);
 }
 
-/*
-.head p{
-    display: flex;
-}
-.head h1{
-    display: flex;
+h2{
+    font-size: 20px;
 }
 
-.allParts{
-    display: flex;
+span{
+    font-size: 15px;
+    color:gray;
 }
 
-.seperatePart{
-    flex: 1;
+p{
+    font-size: 15px;
+    color:gray;
 }
-
-.seperatePart bodyDetail{
-    color: red;
-    font-size: 10px;
-} */
